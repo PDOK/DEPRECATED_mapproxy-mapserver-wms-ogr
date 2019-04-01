@@ -1,1 +1,1 @@
-# mapproxy-mapserver-ogr-wms
+# mapproxy-mapserver-wms-ogr
